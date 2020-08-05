@@ -1,0 +1,36 @@
+Add A C
+Add C B
+Add C D
+Add C E
+Add D C
+Add D E
+Add E C
+Add E D
+Add D F
+Add F G
+Add F H
+Add F I
+Add F J
+Add G F
+Add G H
+Add G I
+Add G J
+Add H F
+Add H G
+Add H I
+Add H J
+Add I F
+Add I G
+Add I H
+Add I J
+Add I K
+Add J F
+Add J G
+Add J H
+Add J I
+Add K I
+Find G
+Find M
+Clique
+Follow 2
+Compact
